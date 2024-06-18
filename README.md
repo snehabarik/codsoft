@@ -17,7 +17,7 @@ This repository contains the source code for my personal portfolio website. The 
 ## Installation
 
 1. Clone the repository:
-   ```bash
+   bash
    git clone https://github.com/snehabarik/codsoft.git
 
    ### FitFusion Gym Landing Page README.md
